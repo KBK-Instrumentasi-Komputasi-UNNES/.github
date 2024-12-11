@@ -1,7 +1,7 @@
 ## Mahasiswa Berprestasi 👋
 
 # KSKI 2024
-![KSKI Logo]()
+![KSKI Logo](https://github.com/KBK-Instrumentasi-Komputasi-UNNES/.github/blob/46315e9b3b369515952bff57868fcbb9312204c0/profile/logo.jpeg)
 
 ## A. PENDAHULUAN
 
